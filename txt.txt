@@ -1,0 +1,7 @@
+name = input("what is you name? ")
+print("Hello" + name) age = input("How old are you?")
+patient_status = input("Are you a new patient here?")
+print("Please verify the following information:")
+print(name)
+print(age)
+print(patient_status)
