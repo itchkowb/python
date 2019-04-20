@@ -1,4 +1,4 @@
-#129 lines (65 sloc)  2.65 KB
+#129 lines (119 sloc)  5.53 KB
 
 minimum_die_number = 1
 maximum_die_number = 12
