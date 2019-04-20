@@ -1,4 +1,4 @@
-#72 lines (65 sloc)  2.49 KB
+#72 lines (65 sloc)  2.62 KB
   
 print("-----------------------")
 print("~~~~~ROLL THE DICE~~~~~")
