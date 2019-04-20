@@ -1,3 +1,5 @@
+#66 lines (61 sloc)  2.49 KB
+  
 print("-----------------------")
 print("~~~~~ROLL THE DICE~~~~~")
 print("-----------------------")
@@ -6,6 +8,9 @@ begin_prompt = raw_input("Are you ready? (y/N) ")  #Initializes the script
 
 if begin_prompt == "y":                           #If the user inputs the letter y, continue
     pass
+elif begin_prompt != "N":
+    print("I didn't understand that, please restart the program")
+    exit()
 else:                                             #If the user inputs something else
     print("Ok, bye")                              #Bid the user adue
     exit()                                        #Quit the script
